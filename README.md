@@ -23,6 +23,8 @@
 
 - 📫 How to reach me **adefokunadeoluwaisrael@gmail.com**
 
+[![An image of @adecom16's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/adecom16)](https://holopin.io/@adecom16)
+
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
