@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Adefokun Israel</h1>
 <h3 align="center">A passionate Junior Web Developer from Nigeria</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=adecom16&label=Profile%20views&color=0e75b6&style=flat" alt="adecom16" /> </p>
 
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adecom16" alt="adecom16" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/adefokunisrael" target="blank"><img src="https://img.shields.io/twitter/follow/adefokunisrael?logo=twitter&style=for-the-badge" alt="adefokunisrael" /></a> </p>
 
