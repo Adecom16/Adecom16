@@ -23,7 +23,7 @@
 
 - 📫 How to reach me **adefokunadeoluwaisrael@gmail.com**
 
-(https://holopin.me/adecom16)](https://holopin.io/@adecom16)
+
 
 
 <!-- BLOG-POST-LIST:START -->
