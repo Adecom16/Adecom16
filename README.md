@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adefokun Israel</h1>
-<h3 align="center">A passionate Junior Web Developer from Nigeria</h3>
+<h3 align="center">A passionate Software Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adecom16&label=Profile%20views&color=0e75b6&style=flat" alt="adecom16" /> </p>
 
@@ -8,9 +8,7 @@
 
 - 🔭 I’m currently working on **Something amazing**
 
-- 🌱 I’m currently learning **Laravel, Python and Machine learning**
-
-- 👯 I’m looking to collaborate on **Vuejs, Reactjs, Solidity, Javascript, PHP, Laravel and Javascript**
+- 🌱 I’m currently learning ** Python and Web3**
 
 - 🤝 I’m looking for help with **Python**
 
